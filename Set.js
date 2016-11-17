@@ -31,3 +31,7 @@ for(item of set3){
     if(item>5)break;
     console.log(item);
 }
+
+
+
+// 在ES6 中定义的新数据的类型中，还有一个升级版本叫Weak,其中集合类型所对应的Weak 版本便是WeakSet.在HTML5 开发中对于内存安全的保障越来越受重视。
